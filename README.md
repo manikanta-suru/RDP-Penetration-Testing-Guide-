@@ -1,34 +1,40 @@
-RDP Penetration Testing Guide 🚀
-Unlock the Secrets of Remote Desktop Protocol (RDP) Security with our Comprehensive Guide! 📘
+# RDP Penetration Testing Guide 🚀
 
-📖 What's Inside:
-Introduction to RDP Security: Understand the fundamentals of Remote Desktop Protocol security.
+**Unlock the Secrets of Remote Desktop Protocol (RDP) Security with our Comprehensive Guide!** 📘
 
-Nmap Port Scanning for RDP: Learn effective port scanning techniques using Nmap.
+## 📖 What's Inside:
 
-Login Bruteforce Attacks & Mitigations: Explore how to secure against login brute force attacks.
+- **Introduction to RDP Security:** Understand the fundamentals of Remote Desktop Protocol security.
 
-Post-Exploitation Techniques using Metasploit: Dive into advanced post-exploitation methods.
+- **Nmap Port Scanning for RDP:** Learn effective port scanning techniques using Nmap.
 
-Persistence in Compromised Systems: Understand how attackers maintain access over time.
+- **Login Bruteforce Attacks & Mitigations:** Explore how to secure against login brute force attacks.
 
-Credential Dumping Methods: Explore techniques and defenses against credential dumping.
+- **Post-Exploitation Techniques using Metasploit:** Dive into advanced post-exploitation methods.
 
-Session Hijacking and its Mitigation: Learn about session hijacking and effective mitigation strategies.
+- **Persistence in Compromised Systems:** Understand how attackers maintain access over time.
 
-DoS Attack Strategies (MS12-020 Free DoS): Understand and defend against Denial of Service attacks.
+- **Credential Dumping Methods:** Explore techniques and defenses against credential dumping.
 
-Exploiting RDP Vulnerabilities: BlueKeep: Explore the infamous BlueKeep vulnerability and its implications.
+- **Session Hijacking and its Mitigation:** Learn about session hijacking and effective mitigation strategies.
 
-Securing RDP by Changing Default Ports: Best practices for enhancing RDP security by modifying default ports.
+- **DoS Attack Strategies (MS12-020 Free DoS):** Understand and defend against Denial of Service attacks.
 
-Man-in-the-Middle Attacks: SETH and More: Delve into the intricacies of MITM attacks and countermeasures.
+- **Exploiting RDP Vulnerabilities: BlueKeep:** Explore the infamous BlueKeep vulnerability and its implications.
 
-Conclusive Best Practices: A summary of best practices to fortify your RDP setups.
+- **Securing RDP by Changing Default Ports:** Best practices for enhancing RDP security by modifying default ports.
 
-🚀 Ideal for:
-Cybersecurity Enthusiasts
-Network Administrators
-Ethical Hackers
-IT Security Professionals
-🎯 Perfect for enhancing your skills in network security and understanding the vulnerabilities and defenses of one of the most widely used remote access protocols.
+- **Man-in-the-Middle Attacks: SETH and More:** Delve into the intricacies of MITM attacks and countermeasures.
+
+- **Conclusive Best Practices:** A summary of best practices to fortify your RDP setups.
+
+## 🚀 Ideal for:
+
+- Cybersecurity Enthusiasts
+- Network Administrators
+- Ethical Hackers
+- IT Security Professionals
+
+## 🎯 Perfect for enhancing your skills in network security and understanding the vulnerabilities and defenses of one of the most widely used remote access protocols.
+
+
